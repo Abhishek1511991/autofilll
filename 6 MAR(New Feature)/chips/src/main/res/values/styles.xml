@@ -1,0 +1,19 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+
+    <style name="DefaultChipSuggestionTextView">
+        <item name="chipHorizontalSpacing">6dp</item>
+        <item name="chipBackground">@color/chip_material_background</item>
+        <item name="chipTextSize">14sp</item>
+        <item name="chipHeight">32dp</item>
+        <item name="chipVerticalSpacing">4dp</item>
+    </style>
+
+</resources>
